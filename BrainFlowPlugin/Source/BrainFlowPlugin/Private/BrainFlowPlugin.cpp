@@ -4,7 +4,8 @@
 
 #define LOCTEXT_NAMESPACE "FBrainFlowPluginModule"
 
-void FBrainFlowPluginModule::StartupModule() {
+void FBrainFlowPluginModule::StartupModule() 
+{
   // This code will execute after your module is loaded into memory; the exact
   // timing is specified in the .uplugin file per-module
 }
